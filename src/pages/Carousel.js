@@ -33,32 +33,45 @@ export default function App() {
         className="mySwiper"
       >
         <SwiperSlide>
-          <img src="https://swiperjs.com/demos/images/nature-1.jpg" alt="pic" />
+          <img src="/images/g1.JPG" alt="pic" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="https://swiperjs.com/demos/images/nature-2.jpg" alt="pic" />
+          <img src="/images/g2.JPG" alt="pic" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="https://swiperjs.com/demos/images/nature-3.jpg" alt="pic" />
+          <img src="/images/g3.JPG" alt="pic" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="https://swiperjs.com/demos/images/nature-4.jpg" alt="pic" />
+          <img src="/images/g4.JPG" alt="pic" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="https://swiperjs.com/demos/images/nature-5.jpg" alt="pic" />
+          <img src="/images/g5.JPG" alt="pic" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="https://swiperjs.com/demos/images/nature-6.jpg" alt="pic" />
+          <img src="/images/g6.JPG" alt="pic" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="https://swiperjs.com/demos/images/nature-7.jpg" alt="pic" />
+          <img src="/images/g7.JPG" alt="pic" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="https://swiperjs.com/demos/images/nature-8.jpg" alt="pic" />
+          <img src="/images/g8.JPG" alt="pic" />
         </SwiperSlide>
         <SwiperSlide>
-          <img src="https://swiperjs.com/demos/images/nature-9.jpg" alt="pic" />
+          <img src="/images/g9.JPG" alt="pic" />
         </SwiperSlide>
+        <SwiperSlide>
+          <img src="/images/g10.JPG" alt="pic" />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src="/images/g11.JPG" alt="pic" />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src="/images/g12.JPG" alt="pic" />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src="/images/g13.JPG" alt="pic" />
+        </SwiperSlide>
+        
       </Swiper>
       
     </>
